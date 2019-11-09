@@ -1,21 +1,17 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac
-  convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac
-  faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien
-  eu, pulvinar tempor diam.
+abstract: The scarcity of long-run historical population series is a major problem because these are vital inputs for many fields of history, demography, and economics. Perhaps the most crucial omission thus far in historical population reconstructions has been the unavailability of uncertainty estimates, leaving the door open for conflicting interpretations of respective population developments. In this talk, I will describe a Bayesian hierarchical time series model that allows us to integrate partially observed parish level data and prior information in a coherent manner, providing us with model-based posterior intervals for the population estimates. We demonstrate its applicability by estimating long-term Finnish population development from 1647 onwards. This puts Finland among the very few countries with an annual population series of this length available.
 address:
-  city: Stanford
-  country: United States
-  postcode: "94305"
-  region: CA
-  street: 450 Serra Mall
+  city: Jyväskylä
+  country: Finland
+  postcode: "40014"
+  street: Department of Mathematics and Statistics
 all_day: false
 authors: []
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-event: Academic Theme Conference
-event_url: https://example.org
-featured: false
+date: "2019-10-02"
+date_end: "2019-10-02"
+event: Joint Statistics and DEMO seminar
+event_url: https://www.jyu.fi/science/en/maths/current/seminars/statistics-seminar
+featured: true
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right

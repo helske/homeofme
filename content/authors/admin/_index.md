@@ -43,4 +43,5 @@ user_groups:
 - Visitors
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am currently a postdoctoral researcher in statistics at the University of Jyväskylä (since September 2019).
+My interests broadly include computational statistics, especially Bayesian time series models, causal inference, visualization of complex data and models, and statistical software development. More specifically, I am interested in developing computationally efficient statistical methods and visualization techniques which incorporate various sources data data and accompanied uncertainty into the final predictions and inferences, thus avoiding overly optimistic (or pessimistic) and potentially biased interpretations.
