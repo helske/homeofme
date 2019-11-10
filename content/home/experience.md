@@ -74,6 +74,26 @@ date_format = "Jan 2006"
   
   
 [[experience]]
+  title = "PhD Student"
+  company = "University of Jyväskylä"
+  company_url = "https://www.jyu.fi/science/en/maths"
+  location = "Jyväskylä, Finland"
+  date_start = "2010-09-01"
+  date_end = "2016-12-31"
+  description = """
+  
+
+During my PhD studies I focused on time series analysis and related prediction problems, first under the classical ARIMA framework and then in more general state space modelling context. The major contribution of the PhD thesis was the development and implementation of KFAS, an efficient R package for state space modelling of observations from exponential family. 
+  
+  Key topics:
+  * State Space Models
+  * Time Series
+  * Forecasting
+  * Statistical Software Development
+  """
+
+
+[[experience]]
   title = "Research Assistant"
   company = "Tampere University of Technology"
   company_url = "https://www.tut.fi"
@@ -86,7 +106,7 @@ I was a research assistant at the Department of Signal Processing, under the sup
   
   Key topics:
   * Hidden Markov Models
-  * Clustering methods
+  * Clustering Methods
   * Social Sequence Analysis
   """
 +++
