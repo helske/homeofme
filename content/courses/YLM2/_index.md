@@ -1,20 +1,27 @@
 ---
+# Course title, summary, and position.
+linktitle: "TILS125 (5 OP): YLEISTETYT LINEAARISET MALLIT 2 (Generalized Linear Models 2)"
+summary: Tulossa keväällä 2020
+weight: 1
+
+# Page metadata.
+title: tulossa.
 date: "2018-09-09T00:00:00Z"
-draft: false
 lastmod: "2018-09-09T00:00:00Z"
-linktitle: An Example Course
+draft: true  # Is this a draft? true/false
+toc: true  # Show table of contents? true/false
+type: docs  # Do not modify.
+
+# Add menu entry to sidebar.
+# - name: Declare this menu item as a parent with ID `name`.
+# - weight: Position of link in menu.
 menu:
   example:
     name: Overview
     weight: 1
-summary: Learn how to use Academic's docs layout for publishing online courses, software
-  documentation, and tutorials.
-title: Overview
-toc: true
-type: docs
-weight: 1
 ---
 
+<!-- 
 ## Flexibility
 
 This feature can be used for publishing content such as:
@@ -54,3 +61,5 @@ Or, if you are creating a software documentation site, you can rename the `cours
 ## Update the docs menu
 
 If you use the *docs* layout, note that the name of the menu in the front matter should be in the form `[menu.X]` where `X` is the folder name. Hence, if you rename the `courses/example/` folder, you should also rename the menu definitions in the front matter of files within `courses/example/` from `[menu.example]` to `[menu.<NewFolderName>]`.
+--> 
+

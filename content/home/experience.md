@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   
-  I am a postdoc in the DEMO research group (Decision analytics utilizing causal models and multiobjective optimization). My research focuses on developing efficient and accurate computational methods for estimating complex causal effects based on nonparametric formulas obtained from causal graphs.
+I am a postdoc in the DEMO research group (Decision analytics utilizing causal models and multiobjective optimization). My research focuses on developing efficient and accurate computational methods for estimating complex causal effects based on nonparametric formulas obtained from causal graphs.
   
   Key topics:
   * Causal Inference
@@ -46,10 +46,10 @@ date_format = "Jan 2006"
   
   Key topics:
   * Data engineering in Aviation (H2020 project SafeClouds.eu)
-  * Bayesian estimation of demographic history of Finland
-  * Hidden Markov modelling of eye-tracking data from air traffic controllers 
-  * Effects of confidence interval visualization on statistical inference
-  * Preserving the sequence clustering uncertainty in subsequent regression models
+  * Bayesian estimation of demographic history of Finland (Conditionally accepted, see recent talks)
+  * Hidden Markov modelling of eye-tracking data from air traffic controllers (upcoming paper at [HICSS](https://hicss.hawaii.edu/))
+  * Effects of confidence interval visualization on statistical inference (Submitted paper)
+  * Preserving the sequence clustering uncertainty in subsequent regression models (Ongoing research)
   """
   
 [[experience]]
@@ -61,7 +61,7 @@ date_format = "Jan 2006"
   date_end = "2017-10-15"
   description = """
   
-  I was a postdoc in project “Exact approximate Monte Carlo methods for complex Bayesian inference” funded by Academy of Finland (PI Dr. Matti Vihola). My main responsibilities were developing and implementing Bayesian inference algorithms which combine approximate marginal Markov chain Monte Carlo (MCMC) using fast deterministic approximations and importance sampling type estimators based on sequential Monte Carlo (SMC) for parallel and consistent MCMC especially for state space models.
+  I was a postdoc in project “Exact approximate Monte Carlo methods for complex Bayesian inference” funded by Academy of Finland (PI Dr. Matti Vihola). I developed and implemented Bayesian inference algorithms which combine approximate marginal Markov chain Monte Carlo (MCMC) using fast deterministic approximations and importance sampling type estimators based on sequential Monte Carlo (SMC) for parallel and consistent MCMC especially for state space models. [Main paper on arXiv](https://arxiv.org/abs/1609.02541), related [R package bssm](https://CRAN.R-project.org/package=bssm).
   
   Key topics:
   * Markov Chain Monte Carlo
@@ -70,7 +70,7 @@ date_format = "Jan 2006"
   * State Space Models
   * Importance Sampling
   * Statistical Software Development
-  """
+"""
   
   
 [[experience]]
@@ -83,7 +83,7 @@ date_format = "Jan 2006"
   description = """
   
 
-During my PhD studies I focused on time series analysis and related prediction problems, first under the classical ARIMA framework and then in more general state space modelling context. The major contribution of the PhD thesis was the development and implementation of KFAS, an efficient R package for state space modelling of observations from exponential family. 
+During my PhD studies I focused on time series analysis and related prediction problems, first under the classical ARIMA framework and then in more general state space modelling context. The major contribution of the [PhD thesis](https://jyx.jyu.fi/handle/123456789/49043) was the development and implementation of [KFAS](https://CRAN.R-project.org/package=KFAS), an efficient R package for state space modelling of observations from exponential family. 
   
   Key topics:
   * State Space Models
@@ -102,11 +102,12 @@ During my PhD studies I focused on time series analysis and related prediction p
   date_end = "2010-08-31"
   description = """
   
-I was a research assistant at the Department of Signal Processing, under the supervision of Professor Ioan Tabus in summer of 2010. My task was to develop a social sequence clustering methods based on hidden Markov models.
+I was a research assistant at the Department of Signal Processing, under the supervision of Professor Ioan Tabus in summer of 2010. My task was to develop a social sequence clustering methods based on hidden Markov models. I presented a paper [MDL based HMM clustering for life sequence analysis](http://sp.cs.tut.fi/WITMSE10/Proceedings/WITMSE2010_Papers/WITMSEHelskeEerolaTabus-1.pdf) at [Third Workshop on Information Theoretic Methods in Science and Engineering](http://sp.cs.tut.fi/WITMSE10/). While I pursued other things during my PhD, the idea of using HMMs for social sequence clustering lead to several other papers (see publications section).
   
   Key topics:
   * Hidden Markov Models
   * Clustering Methods
   * Social Sequence Analysis
+  * Minimum Description Length
   """
 +++
