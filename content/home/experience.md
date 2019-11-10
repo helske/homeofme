@@ -74,15 +74,15 @@ date_format = "Jan 2006"
   
   
 [[experience]]
-  title = "Postdoctoral Researcher in Statistics"
-  company = "University of Jyväskylä"
-  company_url = "https://www.jyu.fi/science/en/maths"
-  location = "Jyväskylä, Finland"
+  title = "Research Assistant"
+  company = "Tampere University of Technology"
+  company_url = "https://www.tut.fi"
+  location = "Tampere, Finland"
   date_start = "2010-06-01"
   date_end = "2010-08-31"
   description = """
   
-I was a research assistant at the Department of Signal Processing, Tampere University of Technology, under the supervision of Professor Ioan Tabus in summer of 2010. My task was to develop a social sequence clustering methods based on hidden Markov models.
+I was a research assistant at the Department of Signal Processing, under the supervision of Professor Ioan Tabus in summer of 2010. My task was to develop a social sequence clustering methods based on hidden Markov models.
   
   Key topics:
   * Hidden Markov Models
