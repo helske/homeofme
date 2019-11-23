@@ -1,6 +1,7 @@
 +++
 title = "Comparison of Attention Behaviour Across User Sets through Automatic Identification of Common Areas of Interest"
 date = "2020-01-08"
+publishdate = "2019-08-01"
 authors = ["Prithiviraj Muthumanickam", "Jouni Helske", "Aida Nordman", "Jimmy Johansson", "Matthew Cooper"]
 publication_types = ["1"]
 publication = "53nd Hawaii International Conference on System Sciences, HICSS 2020"
