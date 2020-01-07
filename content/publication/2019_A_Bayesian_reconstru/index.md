@@ -1,6 +1,6 @@
 +++
 title = "A Bayesian reconstruction of historical population in Finland 1647-1850"
-date = "2019-12-31"
+date = "2020-01-01"
 publishdate = "2019-11-22"
 authors = ["Miikka Voutilainen", "Jouni Helske", "Harri Högmander"]
 publication_types = ["2"]
