@@ -1,7 +1,7 @@
 +++
-title = "Importance sampling type estimators based on approximate marginal MCMC"
-date = "2018-01-01"
-authors = ["Matti Vihola", "Jouni Helske", "Jordan Franks"]
+title = "Estimation of causal effects with small data under implicit functional constraints"
+date = "2020-01-01"
+authors = ["Jouni Helske", "Santtu Tikka", "Juha Karvanen"]
 publication_types = ["2"]
 publication = "arXiv e-prints"
 publication_short = "arXiv e-prints"
@@ -11,7 +11,7 @@ image_preview = ""
 selected = false
 projects = []
 tags = []
-url_pdf = "https://arxiv.org/abs/1609.02541v6"
+url_pdf = "https://arxiv.org/abs/2003.03187"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

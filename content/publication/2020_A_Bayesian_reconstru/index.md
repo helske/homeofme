@@ -1,10 +1,10 @@
 +++
-title = "Comparison of Attention Behaviour Across User Sets through Automatic Identification of Common Areas of Interest"
+title = "A Bayesian reconstruction of historical population in Finland 1647-1850"
 date = "2020-01-01"
-authors = ["Prithiviraj Muthumanickam", "Jouni Helske", "Aida Nordman", "Jimmy Johansson", "Matthew Cooper"]
-publication_types = ["1"]
-publication = "NA"
-publication_short = "NA"
+authors = ["Miikka Voutilainen", "Jouni Helske", "Harri Hogmander"]
+publication_types = ["2"]
+publication = "Demography"
+publication_short = "Demography"
 abstract = ""
 abstract_short = ""
 image_preview = ""

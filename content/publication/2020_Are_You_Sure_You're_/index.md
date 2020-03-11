@@ -1,7 +1,7 @@
 +++
-title = "Importance sampling type estimators based on approximate marginal MCMC"
-date = "2018-01-01"
-authors = ["Matti Vihola", "Jouni Helske", "Jordan Franks"]
+title = "Are You Sure You're Sure? - Effects of Visual Representation on the Cliff Effect in Statistical Inference"
+date = "2020-01-01"
+authors = ["Jouni Helske", "Satu Helske", "Matthew Cooper", "Anders Ynnerman", "Lonni BesanAfA§on"]
 publication_types = ["2"]
 publication = "arXiv e-prints"
 publication_short = "arXiv e-prints"
@@ -11,7 +11,7 @@ image_preview = ""
 selected = false
 projects = []
 tags = []
-url_pdf = "https://arxiv.org/abs/1609.02541v6"
+url_pdf = "https://arxiv.org/abs/2002.07671"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
