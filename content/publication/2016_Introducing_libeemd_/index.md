@@ -1,7 +1,7 @@
 +++
 title = "Introducing libeemd: A program package for performing the ensemble empirical mode decomposition"
 date = "2016-01-01"
-authors = ["Perttu J.J. Luukko", "Jouni Helske", "Esa Rasanen"]
+authors = ["Perttu J.J. Luukko", "Jouni Helske", "Esa Räsänen"]
 publication_types = ["2"]
 publication = "Computational Statistics, (31), 2, _pp. 545--557_, https://doi.org/10.1007/s00180-015-0603-9"
 publication_short = "Computational Statistics, (31), 2, _pp. 545--557_, https://doi.org/10.1007/s00180-015-0603-9"

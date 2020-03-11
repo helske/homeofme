@@ -1,7 +1,7 @@
 +++
 title = "Are You Sure You're Sure? - Effects of Visual Representation on the Cliff Effect in Statistical Inference"
 date = "2020-01-01"
-authors = ["Jouni Helske", "Satu Helske", "Matthew Cooper", "Anders Ynnerman", "Lonni BesanAfA§on"]
+authors = ["Jouni Helske", "Satu Helske", "Matthew Cooper", "Anders Ynnerman", "Lonni Besancon"]
 publication_types = ["2"]
 publication = "arXiv e-prints"
 publication_short = "arXiv e-prints"
