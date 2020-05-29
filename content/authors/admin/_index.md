@@ -43,3 +43,4 @@ user_groups:
 - Visitors
 ---
 I am a researcher in statistics at the University of Jyväskylä and a co-PI of Academy of Finland project PREDLIFE (Towards well-informed decisions: Predicting long-term effects of policy reforms on life trajectories). My current research focuses on developing efficient and accurate Bayesian methods for estimating complex causal effects. More broadly, my research interests are related to computational statistics, especially Bayesian time series models, causal inference, visualization of complex data and models, and statistical software development. I am particularly interested in developing computationally efficient statistical methods and visualization techniques which produce predictions and inferences taking account uncertainties stemming for various stages of the research, thus avoiding overly optimistic (or pessimistic) and potentially biased interpretations.
+
