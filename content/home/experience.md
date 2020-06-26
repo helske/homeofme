@@ -17,23 +17,41 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Senior Researcher in Statistics"
+  company = "University of Jyväskylä"
+  company_url = "https://www.jyu.fi/science/en/maths"
+  location = "Jyväskylä, Finland"
+  date_start = "2020-09-01"
+  date_end = ""
+  description = """
+  
+I am a senior researcher and a subconsortium-PI of the Academy of Finland consortium project *Towards well-informed decisions: Predicting long-term effects of policy reforms on life trajectories* ([PREDLIFE](https://sites.utu.fi/predlife)). I am also a part of the project *Decision analytics utilizing causal models and multiobjective optimization* ([DEMO](https://www.jyu.fi/it/en/research/research-projects/academy-of-finland/demo)). My research focuses on Bayesian modelling and causal inference of complex time series models. 
+  
+Key topics:
+  * Causal Inference
+  * Bayesian Inference
+  * Hidden Markov and State Space Models
+  * Statistical Software Development
+"""
+
 [[experience]]
   title = "Postdoctoral Researcher in Statistics"
   company = "University of Jyväskylä"
   company_url = "https://www.jyu.fi/science/en/maths"
   location = "Jyväskylä, Finland"
   date_start = "2019-09-01"
-  date_end = ""
+  date_end = "2020-08-31"
   description = """
   
 I am a postdoc in the DEMO research group (Decision analytics utilizing causal models and multiobjective optimization). My research focuses on developing efficient and accurate computational methods for estimating complex causal effects based on nonparametric formulas obtained from causal graphs.
   
-  Key topics:
+Key topics:
   * Causal Inference
   * Bayesian Inference
   * Hidden Markov and State Space Models
-  * Statistical Software Development
-  """
+"""
 
 [[experience]]
   title = "Postdoctoral Researcher in Information Visualization"
@@ -44,13 +62,13 @@ I am a postdoc in the DEMO research group (Decision analytics utilizing causal m
   date_end = "2019-08-31"
   description = """
   
-  Key topics:
+Key topics:
   * Data engineering in Aviation (H2020 project SafeClouds.eu)
-  * Bayesian estimation of demographic history of Finland (Conditionally accepted, see recent talks)
-  * Hidden Markov modelling of eye-tracking data from air traffic controllers (upcoming paper at [HICSS](https://hicss.hawaii.edu/))
-  * Effects of confidence interval visualization on statistical inference (Submitted paper)
-  * Preserving the sequence clustering uncertainty in subsequent regression models (Ongoing research)
-  """
+  * [Bayesian estimation of demographic history of Finland](https://link.springer.com/article/10.1007/s13524-020-00889-1)
+  * [Hidden Markov modelling of eye-tracking data from air traffic controllers](https://scholarspace.manoa.hawaii.edu/bitstream/10125/63906/1/0135.pdf)
+  * [Effects of confidence interval visualization on statistical inference](https://arxiv.org/pdf/2002.07671)
+  * Preserving the sequence clustering uncertainty in subsequent regression models
+"""
   
 [[experience]]
   title = "Postdoctoral Researcher in Statistics"
@@ -61,9 +79,9 @@ I am a postdoc in the DEMO research group (Decision analytics utilizing causal m
   date_end = "2017-10-15"
   description = """
   
-  I was a postdoc in project “Exact approximate Monte Carlo methods for complex Bayesian inference” funded by Academy of Finland (PI Dr. Matti Vihola). I developed and implemented Bayesian inference algorithms which combine approximate marginal Markov chain Monte Carlo (MCMC) using fast deterministic approximations and importance sampling type estimators based on sequential Monte Carlo (SMC) for parallel and consistent MCMC especially for state space models. [Main paper on arXiv](https://arxiv.org/abs/1609.02541), related [R package bssm](https://CRAN.R-project.org/package=bssm).
+I was a postdoc in project “Exact approximate Monte Carlo methods for complex Bayesian inference” funded by Academy of Finland (PI Dr. Matti Vihola). I developed and implemented Bayesian inference algorithms which combine approximate marginal Markov chain Monte Carlo (MCMC) using fast deterministic approximations and importance sampling type estimators based on sequential Monte Carlo (SMC) for parallel and consistent MCMC especially for state space models. [Main paper on arXiv](https://arxiv.org/abs/1609.02541), related [R package bssm](https://CRAN.R-project.org/package=bssm).
   
-  Key topics:
+Key topics:
   * Markov Chain Monte Carlo
   * Bayesian Inference
   * Sequential Monte Carlo
@@ -85,12 +103,12 @@ I am a postdoc in the DEMO research group (Decision analytics utilizing causal m
 
 During my PhD studies I focused on time series analysis and related prediction problems, first under the classical ARIMA framework and then in more general state space modelling context. The major contribution of the [PhD thesis](https://jyx.jyu.fi/handle/123456789/49043) was the development and implementation of [KFAS](https://CRAN.R-project.org/package=KFAS), an efficient R package for state space modelling of observations from exponential family. 
   
-  Key topics:
+Key topics:
   * State Space Models
   * Time Series
   * Forecasting
   * Statistical Software Development
-  """
+"""
 
 
 [[experience]]
@@ -104,10 +122,10 @@ During my PhD studies I focused on time series analysis and related prediction p
   
 I was a research assistant at the Department of Signal Processing, under the supervision of Professor Ioan Tabus in summer of 2010. My task was to develop a social sequence clustering methods based on hidden Markov models. I presented a paper [MDL based HMM clustering for life sequence analysis](http://sp.cs.tut.fi/WITMSE10/Proceedings/WITMSE2010_Papers/WITMSEHelskeEerolaTabus-1.pdf) at [Third Workshop on Information Theoretic Methods in Science and Engineering](http://sp.cs.tut.fi/WITMSE10/). While I pursued other things during my PhD, the idea of using HMMs for social sequence clustering lead to several other papers (see publications section).
   
-  Key topics:
+Key topics:
   * Hidden Markov Models
   * Clustering Methods
   * Social Sequence Analysis
   * Minimum Description Length
-  """
+"""
 +++

@@ -17,13 +17,14 @@ email: "jouni.helske@jyu.fi"
 interests:
 - Bayesian Statistics
 - Causal Inference
-- State Space Models
-- Information Visualization
+- State Space and Hidden Markov Models
+- Computational Statistics
+- Information and Uncertainty Visualization
 name: Jouni Helske
 organizations:
 - name: University of Jyväskylä, Department of Mathematics and Statistics
   url: ""
-role: Postdoctoral Researcher in Statistics
+role: Senior Researcher in Statistics
 social:
 - icon: envelope
   icon_pack: fas
@@ -42,5 +43,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a postdoctoral researcher in statistics at the University of Jyväskylä and a subconsortium-PI of the Academy of Finland consortium project *Towards well-informed decisions: Predicting long-term effects of policy reforms on life trajectories* ([PREDLIFE](https://sites.utu.fi/predlife)). I am also a part of the project *Decision analytics utilizing causal models and multiobjective optimization* ([DEMO](https://www.jyu.fi/it/en/research/research-projects/academy-of-finland/demo)). My current research focuses on developing efficient and accurate Bayesian methods for estimating complex causal effects. More broadly, my research interests are related to computational statistics, especially Bayesian time series models, causal inference, visualization of complex data and models, and statistical software development. I am particularly interested in developing computationally efficient statistical methods and visualization techniques which produce predictions and inferences taking account uncertainties stemming for various stages of the research, thus avoiding overly optimistic (or pessimistic) and potentially biased interpretations.
-
+I am a senior researcher in statistics at the University of Jyväskylä and a subconsortium-PI of the Academy of Finland consortium project *Towards well-informed decisions: Predicting long-term effects of policy reforms on life trajectories* ([PREDLIFE](https://sites.utu.fi/predlife)). I am also a part of the project *Decision analytics utilizing causal models and multiobjective optimization* ([DEMO](https://www.jyu.fi/it/en/research/research-projects/academy-of-finland/demo)). My current research focuses on developing efficient and accurate Bayesian methods for estimating causal effects especially in the context of complex time series models. More broadly, my research interests are related to computational statistics, especially Bayesian time series models, causal inference, visualization of complex data and models, and statistical software development. 
