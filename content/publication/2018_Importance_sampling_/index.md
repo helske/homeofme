@@ -1,10 +1,10 @@
 +++
 title = "Importance sampling type estimators based on approximate marginal MCMC"
-date = "2018-01-01"
+date = "2020-01-01"
 authors = ["Matti Vihola", "Jouni Helske", "Jordan Franks"]
 publication_types = ["2"]
-publication = "arXiv e-prints"
-publication_short = "arXiv e-prints"
+publication = "Accepted to Scandinavian Journal of Statistics"
+publication_short = "Accepted to Scandinavian Journal of Statistics"
 abstract = ""
 abstract_short = ""
 image_preview = ""
