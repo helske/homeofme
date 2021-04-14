@@ -1,11 +1,11 @@
 +++
-title = "Are You Sure You're Sure? - Effects of Visual Representation on the Cliff Effect in Statistical Inference"
-date = "2020-01-01"
+title = "Can visualization alleviate dichotomous thinking? Effects of visual representations on the cliff effect"
+date = "2021-04-01"
 authors = ["Jouni Helske", "Satu Helske", "Matthew Cooper", "Anders Ynnerman", "Lonni Besancon"]
 publication_types = ["2"]
-publication = "arXiv e-prints"
-publication_short = "arXiv e-prints"
-abstract = "Common reporting styles of statistical results, such as confidence intervals (CI), are prone to dichotomous interpretations especially on null hypothesis testing frameworks, for example by claiming significant differences between drug treatment and placebo groups due to the non-overlapping CIs of the mean effects, while disregarding the magnitudes and absolute difference in the effect sizes. Techniques relying on the visual estimation of the strength of evidence have been recommended to limit such dichotomous interpretations but their effectiveness has been challenged. We ran two experiments to compare several visual representations of confidence intervals, and used a Bayesian multilevel model to estimate the effects of visualization on differences in subjective confidence of the results. Our results suggest that adding visual information to standard CI representation can decrease the sudden drop around p-value 0.05 compared to standard CIs and textual representation of CI with p-values. All data analysis and scripts are available online: https://github.com/helske/statvis."
+publication = "Transactions on Visualization and Computer Graphics"
+publication_short = "TVCG"
+abstract = "Common reporting styles for statistical results in scientific articles, such as p-values and confidence intervals (CI), have been reported to be prone to dichotomous interpretations, especially with respect to the null hypothesis significance testing framework. For example when the p-value is small enough or the CIs of the mean effects of a studied drug and a placebo are not overlapping, scientists tend to claim significant differences while often disregarding the magnitudes and absolute differences in the effect sizes. This type of reasoning has been shown to be potentially harmful to science. Techniques relying on the visual estimation of the strength of evidence have been recommended to reduce such dichotomous interpretations but their effectiveness has also been challenged. We ran two experiments on researchers with expertise in statistical analysis to compare several alternative representations of confidence intervals and used Bayesian multilevel models to estimate the effects of the representation styles on differences in researchers' subjective confidence in the results. We also asked the respondents' opinions and preferences in representation styles. Our results suggest that adding visual information to classic CI representation can decrease the tendency towards dichotomous interpretations - measured as the `cliff effect': the sudden drop in confidence around p-value 0.05 - compared with classic CI visualization and textual representation of the CI with p-values. All data and analyses are publicly available at https://github.com/helske/statvis."
 abstract_short = ""
 image_preview = ""
 selected = false
