@@ -4,8 +4,8 @@ date: "2010-01-01"
 author:  "Jouni Helske, Mervi Eerola and Ioan Tabus"
 categories:   
   - Hidden Markov models
-tags:
   - Clustering
+tags:
   - Life course data
 doi: ~
 publishDate: '2010'
