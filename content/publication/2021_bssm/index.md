@@ -1,6 +1,6 @@
 ---
 title: "bssm: Bayesian Inference of Non-linear and Non-Gaussian State Space Models in R"
-date: "2021-06-01"
+date: "2021-11-02"
 author: "Jouni Helske and Matti Vihola"
 publication_types : 
  - '2'
@@ -12,8 +12,8 @@ tags:
   - Sequential Monte Carlo
 doi: ~
 publishDate: '2021'
-publication: "ArXiv preprint"
-publication_short: ArXiv
+publication: "Accepted to R Journal"
+publication_short: RJournal
 featured: yes
 url_pdf: ~
 url_code: ~
