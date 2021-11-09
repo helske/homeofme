@@ -9,7 +9,7 @@ categories:
   - R Package
 tags:
   - Markov Chain Monte Carlo
-  - Time series
+  - Time Series
 doi: ~
 publishDate: '2020'
 publication: "ArXiv preprint"

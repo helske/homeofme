@@ -6,8 +6,9 @@ publication_types :
  - '2'
 categories:
  - Bayesian Inference
+ - Time Series
 tags:
- - Population modelling
+ - Population Modelling
 doi: ~
 publishDate: '2020'
 publication: "Demography"
