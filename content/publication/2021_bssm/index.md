@@ -12,8 +12,8 @@ tags:
   - Sequential Monte Carlo
 doi: ~
 publishDate: '2021'
-publication: "Accepted to R Journal"
-publication_short: RJournal
+publication: "R Journal"
+publication_short: "R Journal"
 featured: yes
 url_pdf: ~
 url_code: ~
@@ -21,7 +21,7 @@ url_dataset: ~
 url_poster: ~
 url_project: ~
 url_slides: ~
-url_source: "https://arxiv.org/abs/2101.08492"
+url_source: "https://journal.r-project.org/archive/2021/RJ-2021-103/index.html"
 url_video: ~
 image:
   caption: ''
@@ -33,7 +33,7 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: PDF
-    url: "https://arxiv.org/pdf/2101.08492"
+    url: "https://journal.r-project.org/archive/2021/RJ-2021-103/RJ-2021-103.pdf"
     
 ---
 
