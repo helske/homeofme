@@ -1,6 +1,6 @@
 ---
 title: "bssm: Bayesian Inference of Non-linear and Non-Gaussian State Space Models in R"
-date: "2021-11-02"
+date: "2022-02-13"
 author: "Jouni Helske and Matti Vihola"
 publication_types : 
  - '2'

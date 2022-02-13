@@ -1,6 +1,6 @@
 ---
 title: "Efficient Bayesian generalized linear models with time-varying coefficients: The walker package in R"
-date: "2021-06-01"
+date: "2022-02-13"
 author: "Jouni Helske"
 publication_types : 
  - '2'
@@ -11,9 +11,9 @@ tags:
   - Markov Chain Monte Carlo
   - Time Series
 doi: ~
-publishDate: '2020'
-publication: "ArXiv preprint"
-publication_short: ArXiv
+publishDate: '2022'
+publication: "SoftwareX (to appear)"
+publication_short: SoftwareX
 featured: yes
 url_pdf: ~
 url_code: ~
