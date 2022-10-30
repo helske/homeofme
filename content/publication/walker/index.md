@@ -12,7 +12,7 @@ tags:
   - Time Series
 doi: ~
 publishDate: '2022'
-publication: "SoftwareX (to appear)"
+publication: "SoftwareX"
 publication_short: SoftwareX
 featured: yes
 url_pdf: ~
@@ -21,7 +21,7 @@ url_dataset: ~
 url_poster: ~
 url_project: ~
 url_slides: ~
-url_source: "https://arxiv.org/abs/2009.07063"
+url_source: "https://www.sciencedirect.com/science/article/pii/S235271102200022X"
 url_video: ~
 image:
   caption: ''
@@ -33,7 +33,7 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: PDF
-    url: "https://arxiv.org/pdf/2009.07063"
+    url: "https://www.sciencedirect.com/science/article/pii/S235271102200022X/pdfft?md5=fbead3e873ba642f75363ff42e3046dc&pid=1-s2.0-S235271102200022X-main.pdf"
     
 ---
 
