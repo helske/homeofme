@@ -20,7 +20,7 @@ url_dataset: ~
 url_poster: ~
 url_project: ~
 url_slides: ~
-url_source: https://doi.org/10.1007/s10260-022-00664-z
+url_source: "https://link.springer.com/content/pdf/10.1007/s10260-022-00664-z.pdf"
 url_video: ~
 image:
   caption: ''
@@ -32,7 +32,7 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: PDF
-    url: 
+    url: https://link.springer.com/content/pdf/10.1007/s10260-022-00664-z.pdf
     
 ---
 

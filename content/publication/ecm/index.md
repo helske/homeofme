@@ -10,7 +10,7 @@ tags:
   - Markov Chain Monte Carlo
   - Time Series
   - Spatio-temporal Data
-doi: ~
+doi: https://doi.org/10.1111/rssc.12577
 publishDate: '2021'
 publication: "Journal of Royal Statistical Society, Series C"
 publication_short: JRSS C
@@ -21,7 +21,7 @@ url_dataset: ~
 url_poster: ~
 url_project: ~
 url_slides: ~
-url_source: " https://doi.org/10.1111/rssc.12577"
+url_source: "https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/rssc.12577"
 url_video: ~
 image:
   caption: ''
