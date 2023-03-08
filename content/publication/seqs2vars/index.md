@@ -1,6 +1,6 @@
 ---
 title: "From sequences to variables - Rethinking the relationship between sequences and outcomes"
-date: "2021-09-17"
+date: "2023-03-08"
 author: "Satu Helske, Jouni Helske, Guilherme K. Chihaya"
 publication_types : 
  - '2'
@@ -9,8 +9,8 @@ categories:
 tags:
  - Life course data
 doi: 10.31235/osf.io/srxag
-publishDate: '2021'
-publication: "SocArxiv  preprint"
+publishDate: '2023'
+publication: "SocArxiv preprint (conditionally accepted)"
 publication_short: SocArxiv 
 featured: yes
 url_pdf: ~
