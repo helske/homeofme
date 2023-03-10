@@ -10,8 +10,8 @@ tags:
  - Life course data
 doi: 10.31235/osf.io/srxag
 publishDate: '2023'
-publication: "SocArxiv preprint (conditionally accepted)"
-publication_short: SocArxiv 
+publication: "Sosiological Methodology (to appear)"
+publication_short: Sosiological Methodology 
 featured: yes
 url_pdf: ~
 url_code: ~
