@@ -19,7 +19,7 @@ links:
 - icon: github
   icon_pack: fab
   name: code
-  url: https://github.com/helske/bssm
+  url: https://github.com/ropensci/dynamite
 location: University of Jyväskylä, Department of Mathematics and Statistics
 show_post_time: false
 subtitle: ~
