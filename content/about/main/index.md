@@ -16,7 +16,7 @@ intro: |
   <i class="fas fa-graduation-cap pr2"></i>MSc in Statistics  &#8729;
     University of Jyväskylä  &#8729;  2010
     
-  I also play [disc golf](https://www.pdga.com/player/64059).
+  I am not teaching at the moment. I have previously taught courses Statistical Inference 1, Bayesian Inference 1, R programming, and generalized linear models 2 at the University of Jyväskylä.
 
 show_outro: false
 outro: |
