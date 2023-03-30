@@ -8,7 +8,7 @@ categories:
   - Causal Inference
   - Bayesian Inference
 tags:
-  - 
+  - Marketing
 doi: ~
 publishDate: '2022'
 publication: "Statistical Methods and applications"
