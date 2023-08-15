@@ -10,7 +10,7 @@ tags:
   - Directed Acyclic Graphs
 doi: ~
 publishDate: '2023'
-publication: "Journal of Machine Learning Research (accepted)"
+publication: "Journal of Machine Learning Research"
 publication_short: JMLR
 featured: yes
 url_pdf: ~
@@ -19,7 +19,7 @@ url_dataset: ~
 url_poster: ~
 url_project: ~
 url_slides: ~
-url_source: "https://arxiv.org/abs/2111.04513"
+url_source: "https://jmlr.org/papers/v24/21-1322.html"
 url_video: ~
 image:
   caption: ''
@@ -31,7 +31,7 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: PDF
-    url: "https://arxiv.org/pdf/2111.04513"
+    url: "https://jmlr.org/papers/volume24/21-1322/21-1322.pdf"
     
 ---
 
