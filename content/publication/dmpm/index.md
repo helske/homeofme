@@ -1,6 +1,6 @@
 ---
 title: "Estimating Causal Effects from Panel Data with Dynamic Multivariate Panel Models"
-date: "2022-12-14"
+date: "2023-10-12"
 author: "Jouni Helske, Santtu Tikka"
 publication_types : 
  - '2'
@@ -12,7 +12,7 @@ tags:
   - Markov Chain Monte Carlo
   - Panel Data
 doi: 10.31235/osf.io/mdwu5
-publishDate: '2022'
+publishDate: '2023'
 publication: "SocArxiv preprint"
 publication_short: SocArxiv 
 featured: yes
@@ -40,5 +40,20 @@ links:
 
 ## Abstract
 
-Panel data are ubiquitous in scientific domains such as sociology and econometrics. Various modeling approaches have been presented for the analysis of such data including dynamic panel models, cross-lagged panel models, and their extensions.
-Existing panel data modeling approaches typically impose some restrictive assumptions on the data-generating process, such as Gaussian errors, effects that are constant in time, or univariate responses. With the goal of surmounting these restrictions, we present the dynamic multivariate panel model (DMPM) that supports both time-varying and time-invariant effects, multiple simultaneous responses across a wide variety of distributions, and arbitrary dependency structures of lagged responses of any order. We employ a Bayesian approach to the estimation of the model parameters and leverage state-of-the-art Markov chain Monte Carlo methods for simulation of the posterior distribution. We demonstrate the use of DMPM by applying the model to both real and synthetic data.
+  Panel data are ubiquitous in scientific domains such as sociology and
+  econometrics. Various modeling approaches have been presented for the
+  causal inference based on such data, including Markov models, cross-lagged
+  panel models, and their extensions. Existing panel data modeling
+  approaches typically impose some restrictive assumptions on the
+  data-generating process, such as Gaussian responses, effects that are
+  constant in time, and ability to consider only short-term causal
+  effects. With the goal of surmounting these restrictions, we present
+  the dynamic multivariate panel model (DMPM) that supports
+  time-varying, time-invariant, and individual-specific effects,
+  multiple simultaneous responses across a wide variety of
+  distributions, and arbitrary dependency structures of lagged responses
+  of any order. We take a Bayesian approach and leverage
+  state-of-the-art Markov chain Monte Carlo methods for the estimation
+  of the posterior distributions of the model parameters and causal
+  effects of interest. We demonstrate the use of DMPM by applying the
+  model to both real and synthetic data.
