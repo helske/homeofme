@@ -7,11 +7,10 @@ number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: | 
 
-  I am currently Academy Research Fellow at University of Turku, working on temporal causal inference. I am also PI of the statistics subproject of [PREDLIFE](https://sites.utu.fi/predlife) Consortium at University of Jyväskylä.
+  I am an Academy Research Fellow at University of Turku, working on temporal causal inference. I am also PI of the statistics subproject of [PREDLIFE](https://sites.utu.fi/predlife) Consortium at University of Jyväskylä.
   
-  I did my Statistics studies in at the University of Jyväskylä, and after a postdoc under [Matti Vihola](http://users.jyu.fi/~mvihola/) (Bayesian Markov chain and sequential Monte Carlo stuff) I did my second postdoc at [Anders Ynnerman's](https://ynnerman.se/) Infovis group at the Linköping University (various visualization and statistic stuff), before coming back to Jyväskylä to work on causal inference with [Juha Karvanen](http://users.jyu.fi/~jutakarv/) as part of the  *Decision analytics utilizing causal models and multiobjective optimization* ([DEMO](https://www.jyu.fi/it/en/research/research-projects/academy-of-finland/demo)) project, before acquiring my own funding to work on PREDLIFE project.
 
-  My research can be broadly classified as computational statistics, mainly related to causal inference and time series methods (state space models, hidden Markov models), and respective statistical software development. Check out my [publications](/publication) and [R packages](/software) for more details on my current and previous research interests. You can also take look at my [CV](/files/cv.pdf)
+  My research can be broadly classified as computational statistics, mainly related to causal inference and time series methods (state space models, hidden Markov models, dynamic multivariate panel models), and respective statistical software development. My most up to date list of publications can be found in [Google Scholar](https://scholar.google.se/citations?user=oTHPKOoAAAAJ&hl=fi) and on my [UTU webpage](https://www.utu.fi/en/people/jouni-helske), I rarely remember to update the [publications](/publication) and [R packages](/software) pages here.
 
   <i class="fas fa-graduation-cap pr2"></i>Ph.D. in Statistics  &#8729; 
     University of Jyväskylä &#8729;  2015
